@@ -16,7 +16,7 @@ const Navbar: React.FC<NavbarProps> = ({ handleToggle }) => {
         style={{ backgroundColor: "var(--background)", color: "var(--text-color)" }}
       >
         <div className="flex-1">
-          <button className="btn btn-ghost text-xl">To Do List</button>
+          <button className="btn btn-ghost text-xl">Tehran Map</button>
         </div>
         <div className="flex-none mr-2">
           <div className="dropdown dropdown-end">
