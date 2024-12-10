@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "tehran map",
-  description: "tehran map street",
+  description: "tehran map",
 };
 
 export default function RootLayout({
