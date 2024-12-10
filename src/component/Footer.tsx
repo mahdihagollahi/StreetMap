@@ -3,7 +3,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="absolute  left-0 right-0 bottom-0">
+    <div className="absolute   left-0 right-0 bottom-0">
       <footer
         className="footer items-center p-4 bg-neutral text-neutral-content"
         style={{ backgroundColor: "var(--background)", color:"var(--text-color)"}}
@@ -22,7 +22,7 @@ function Footer() {
           </svg>
           <p>Copyright © 2024 - All right reserved</p>
         </aside>
-        <nav className="grid-flow-col ml-40 md:mr-0 gap-4 md:place-self-center md:justify-self-end  ">
+        <nav className="grid-flow-col ml-32 sm:ml-40 md:ml-40 lg:ml-40 gap-4 md:place-self-center md:justify-self-end  ">
           <a>
             <svg
               xmlns="http://www.w3.org/2000/svg"

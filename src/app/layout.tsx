@@ -14,6 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
+  manifest: '/manifest.json',
   title: "tehran map",
   description: "tehran map",
 };
